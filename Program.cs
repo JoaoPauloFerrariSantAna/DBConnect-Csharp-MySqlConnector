@@ -8,7 +8,7 @@ public class Program {
 		var builder = new MySqlConnectionStringBuilder {
 			Server = "localhost",
 			UserID = "root",
-			Password = "ghostlyTr1nk37",
+			Password = "",
 			Database = "cs_db",
 		};
 
